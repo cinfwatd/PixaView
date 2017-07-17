@@ -1,4 +1,4 @@
-package com.bitrient.propos
+package com.bitrient.pixaview
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,9 +8,9 @@ import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
-import com.bitrient.propos.api.PhotoRetriever
-import com.bitrient.propos.models.Photo
-import com.bitrient.propos.models.PhotoList
+import com.bitrient.pixaview.api.PhotoRetriever
+import com.bitrient.pixaview.models.Photo
+import com.bitrient.pixaview.models.PhotoList
 
 import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Call
