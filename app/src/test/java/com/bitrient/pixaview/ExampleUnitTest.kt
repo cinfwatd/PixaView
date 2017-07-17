@@ -1,4 +1,4 @@
-package com.bitrient.propos
+package com.bitrient.pixaview
 
 import org.junit.Test
 
